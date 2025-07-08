@@ -9,14 +9,19 @@ This repository contains beginner-level Java solutions for common DSA problems c
 
 ## ✅ Problems
 
-| Topic       | Problem                                                                                             | Source        |
-|-------------|-----------------------------------------------------------------------------------------------------|------------   |
-| Arrays      | Two Sum                                                                                             | LeetCode #1   |
-|             | Best Time to Buy and Sell Stock                                                                     | LeetCode #121 |
-|             |Single Number                                                                                        | LeetCode #136 |
-| Strings     | Reverse a String                                                                                    | LeetCode #344 |
+| Topic       | Problem                                           | Source        |
+|-------------|---------------------------------------------------|------------   |
+| Arrays      | Two Sum                                           | LeetCode #1   |
+|             | Best Time to Buy and Sell Stock                   | LeetCode #121 |
+|             | Single Number                                     | LeetCode #136 |
+|             | Remove Duplicates                                 | LeetCode #26  |
+|             | Maximum Subarray                                  | LeetCode #53  |
+|             | Move Zeroes                                       | LeetCode #283 |
+| Strings     | Reverse a String                                  | LeetCode #344 |
+|             | Roman to Integer                                  | LeetCode #13  |
+|             | Integer to Roman                                  | LeetCode #12  |
 
 ---
 
-More problems will be added weekly!
+More problems will be added daily!
 
