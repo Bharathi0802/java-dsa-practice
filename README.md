@@ -17,6 +17,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Remove Duplicates                                 | LeetCode #26  |
 |             | Maximum Subarray                                  | LeetCode #53  |
 |             | Move Zeroes                                       | LeetCode #283 |
+|             | Contains Duplicate                                | Leetcode #217 |
+|            | Merge Sorted Array                                 | LeetCode #88  |
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
