@@ -6,6 +6,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 
 - Arrays
 - Strings
+- Math
 
 ## ✅ Problems
 
@@ -19,9 +20,11 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Move Zeroes                                       | LeetCode #283 |
 |             | Contains Duplicate                                | Leetcode #217 |
 |            | Merge Sorted Array                                 | LeetCode #88  |
+|             | Plus One                                          | LeetCode #66  |  
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
+| Math        | Reverse Integer                                   | LeetCode #7   |
 
 ---
 
