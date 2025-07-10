@@ -24,6 +24,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
+|             | Valid Anagram                                     | LeetCode #242 |
+|             | Valid Palindrome                                  | LeetCode #125 |
 | Math        | Reverse Integer                                   | LeetCode #7   |
 
 ---
