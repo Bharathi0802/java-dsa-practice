@@ -20,12 +20,15 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Move Zeroes                                       | LeetCode #283 |
 |             | Contains Duplicate                                | Leetcode #217 |
 |            | Merge Sorted Array                                 | LeetCode #88  |
-|             | Plus One                                          | LeetCode #66  |  
+|             | Plus One                                          | LeetCode #66  |
+|             | Rotate Array                                      | LeetCode #189 |
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
 |             | Valid Anagram                                     | LeetCode #242 |
 |             | Valid Palindrome                                  | LeetCode #125 |
+|             | Find the Index of the First Occurrence in a String | LeetCode #28 |
+|             | Count and Say                                     | LeetCode #38  |
 | Math        | Reverse Integer                                   | LeetCode #7   |
 
 ---
