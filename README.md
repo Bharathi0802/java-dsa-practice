@@ -29,6 +29,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Valid Palindrome                                  | LeetCode #125 |
 |             | Find the Index of the First Occurrence in a String | LeetCode #28 |
 |             | Count and Say                                     | LeetCode #38  |
+|             | Longest Common Prefix                             | LeetCode #14  |
+|             | First Unique Character in a String                | LeetCode #387 |
 | Math        | Reverse Integer                                   | LeetCode #7   |
 
 ---
