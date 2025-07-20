@@ -32,6 +32,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Longest Common Prefix                             | LeetCode #14  |
 |             | First Unique Character in a String                | LeetCode #387 |
 |             | Longest Palindromic Substring                     | LeetCode #5   |
+|             | Isomorphic Strings                                | LeetCode #205 |
+|             | Group Anagrams                                    | LeetCode #49  |
 | Math        | Reverse Integer                                   | LeetCode #7   |
 
 ---
