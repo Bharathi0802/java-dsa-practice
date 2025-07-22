@@ -37,6 +37,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Isomorphic Strings                                | LeetCode #205 |
 |             | Group Anagrams                                    | LeetCode #49  |
 | Math        | Reverse Integer                                   | LeetCode #7   |
+|             | Sqrt(x)                                           | LeetCode #69  |
 
 ---
 
