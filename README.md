@@ -38,6 +38,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Group Anagrams                                    | LeetCode #49  |
 | Math        | Reverse Integer                                   | LeetCode #7   |
 |             | Sqrt(x)                                           | LeetCode #69  |
+|             | Number of 1 bits                                  | LeetCode #191 |
 
 ---
 
