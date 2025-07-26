@@ -7,6 +7,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 - Arrays
 - Strings
 - Math
+- Recursion
 
 ## ✅ Problems
 
@@ -40,6 +41,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Sqrt(x)                                           | LeetCode #69  |
 |             | Number of 1 bits                                  | LeetCode #191 |
 |             | Power of Two                                      | LeetCode #231 |
+| Recursion   | Climbing Stairs                                   | LeetCode #70  |
+|             | Fibonacci Number                                  | LeetCode #509 |
 
 ---
 
