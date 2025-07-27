@@ -43,6 +43,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Power of Two                                      | LeetCode #231 |
 | Recursion   | Climbing Stairs                                   | LeetCode #70  |
 |             | Fibonacci Number                                  | LeetCode #509 |
+|             | Happy Number                                      | LeetCode #202 |
 
 ---
 
