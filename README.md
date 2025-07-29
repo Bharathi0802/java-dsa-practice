@@ -37,6 +37,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Longest Palindromic Substring                     | LeetCode #5   |
 |             | Isomorphic Strings                                | LeetCode #205 |
 |             | Group Anagrams                                    | LeetCode #49  |
+|             | Valid Parentheses                                 | LeetCode #20  |
 | Math        | Reverse Integer                                   | LeetCode #7   |
 |             | Sqrt(x)                                           | LeetCode #69  |
 |             | Number of 1 bits                                  | LeetCode #191 |
