@@ -24,7 +24,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Plus One                                          | LeetCode #66  |
 |             | Rotate Array                                      | LeetCode #189 |
 |             | Missing Numbers                                   | LeetCode #268 |
-|             |Majority Elements                                  | LeetCode #169 |
+|             | Majority Elements                                 | LeetCode #169 |
+|             | Find All Duplicates in an Array                   | LeetCode #442 |
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
