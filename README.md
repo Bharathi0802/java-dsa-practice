@@ -28,6 +28,8 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Find All Duplicates in an Array                   | LeetCode #442 |
 |             | Find All Disappeared Numbers in an Array          | LeetCode #448|
 |             | Pascal's Triangle                                 | LeetCode #118|
+|             | Fruit into Basket                                 | LeetCode #904|
+|             | Fruits to Baskets II                              | LeetCode #3477|
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
