@@ -31,6 +31,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Fruit into Basket                                 | LeetCode #904|
 |             | Fruits to Baskets II                              | LeetCode #3477|
 |             | Palindrome Number                                 | LeetCode #9|
+|             | Remove Element                                    | LeetCode #27|
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
