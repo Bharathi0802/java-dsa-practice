@@ -26,12 +26,12 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Missing Numbers                                   | LeetCode #268 |
 |             | Majority Elements                                 | LeetCode #169 |
 |             | Find All Duplicates in an Array                   | LeetCode #442 |
-|             | Find All Disappeared Numbers in an Array          | LeetCode #448|
-|             | Pascal's Triangle                                 | LeetCode #118|
-|             | Fruit into Basket                                 | LeetCode #904|
+|             | Find All Disappeared Numbers in an Array          | LeetCode #448 |
+|             | Pascal's Triangle                                 | LeetCode #118 |
+|             | Fruit into Basket                                 | LeetCode #904 |
 |             | Fruits to Baskets II                              | LeetCode #3477|
-|             | Palindrome Number                                 | LeetCode #9|
-|             | Remove Element                                    | LeetCode #27|
+|             | Palindrome Number                                 | LeetCode #9 |
+|             | Remove Element                                    | LeetCode #27 |
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
@@ -49,6 +49,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Sqrt(x)                                           | LeetCode #69  |
 |             | Number of 1 bits                                  | LeetCode #191 |
 |             | Power of Two                                      | LeetCode #231 |
+|             | Soup Servings                                     | LeetCode #808 |
 | Recursion   | Climbing Stairs                                   | LeetCode #70  |
 |             | Fibonacci Number                                  | LeetCode #509 |
 |             | Happy Number                                      | LeetCode #202 |
