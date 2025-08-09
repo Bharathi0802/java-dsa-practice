@@ -50,6 +50,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Number of 1 bits                                  | LeetCode #191 |
 |             | Power of Two                                      | LeetCode #231 |
 |             | Soup Servings                                     | LeetCode #808 |
+|             | Add Binary                                        | LeetCode #67  |
 | Recursion   | Climbing Stairs                                   | LeetCode #70  |
 |             | Fibonacci Number                                  | LeetCode #509 |
 |             | Happy Number                                      | LeetCode #202 |
