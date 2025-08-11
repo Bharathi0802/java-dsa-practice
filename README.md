@@ -32,6 +32,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 |             | Fruits to Baskets II                              | LeetCode #3477|
 |             | Palindrome Number                                 | LeetCode #9 |
 |             | Remove Element                                    | LeetCode #27 |
+|             | Range Product Queries of Powers                   | LeetCode #2438|
 | Strings     | Reverse a String                                  | LeetCode #344 |
 |             | Roman to Integer                                  | LeetCode #13  |
 |             | Integer to Roman                                  | LeetCode #12  |
