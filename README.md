@@ -1,6 +1,6 @@
 # 🧠 Java DSA Practice
 
-This repository contains beginner-level Java solutions for common DSA problems categorized by topic.
+This repository contains Java solutions for common DSA problems categorized by topic.
 
 ## 🗂️ Topics Covered
 
@@ -8,6 +8,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 - Strings
 - Math
 - Recursion
+- dynamic programming
 
 ## ✅ Problems
 
@@ -55,6 +56,7 @@ This repository contains beginner-level Java solutions for common DSA problems c
 | Recursion   | Climbing Stairs                                   | LeetCode #70  |
 |             | Fibonacci Number                                  | LeetCode #509 |
 |             | Happy Number                                      | LeetCode #202 |
+| DP          | Ways to Express an Integer as Sum of Powers       | LeetCode #2787|
 
 ---
 
