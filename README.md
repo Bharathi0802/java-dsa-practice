@@ -53,6 +53,7 @@ This repository contains Java solutions for common DSA problems categorized by t
 |             | Power of Two                                      | LeetCode #231 |
 |             | Soup Servings                                     | LeetCode #808 |
 |             | Add Binary                                        | LeetCode #67  |
+|             | Power of Four                                     | LeetCode #342 |
 | Recursion   | Climbing Stairs                                   | LeetCode #70  |
 |             | Fibonacci Number                                  | LeetCode #509 |
 |             | Happy Number                                      | LeetCode #202 |
